@@ -1,0 +1,8 @@
+#configure Neuron Network
+#Wed Apr 18 11:52:50 MSK 2012
+sizeSegment=3
+percentDamage=1
+mapWidth=200
+mapHeight=200
+amountIteration=1000
+badColour=8912655
